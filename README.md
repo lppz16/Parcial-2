@@ -82,4 +82,4 @@ Calculadora en HTML/JavaScript:
 
 
 ## Autor
-Frank Yan Ríos López
+Yan Frank Ríos López
