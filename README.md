@@ -26,7 +26,7 @@ Este proyecto contiene dos implementaciones de una calculadora básica:
 Para clonar este proyecto en tu máquina local, sigue estos pasos:
 
 bash
-git clone https://github.com/usuario/calculadora.git
+git clone [https://github.com/usuario/calculadora.git](https://github.com/lppz16/Parcial-2.git)
 
 ## Instalación
 Para la Calculadora en Python:
